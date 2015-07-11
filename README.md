@@ -1,7 +1,7 @@
 # Snack Bar Tutorial
 So programmiert ihr die SnackBar mithilfe der Android Design Library.
 
-- Tutorial auf YouTube: 
+- Tutorial auf YouTube: http://youtu.be/mPd3Visf93k
 - Projekt für Android Studio
 
 <b>SCREENSHOT:</b>
